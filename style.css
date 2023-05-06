@@ -1,0 +1,19 @@
+body{
+    background-color: ghostwhite;
+}
+.grid{
+    width: 606px;
+    height: 606px;
+    display: flex;
+    flex-wrap:wrap;
+}
+.square{
+    width: 200px;
+    height: 200px;
+    border: solid black 1px;
+    background-color: greenyellow;
+}
+.mole{
+    background-image: url("MAG4419.png");
+    background-size: cover;
+}
